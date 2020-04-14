@@ -1,15 +1,15 @@
 ﻿' #####################################################################
 ' # L Minett 2020 - Snake                                             #
 ' # Ideas to implement:                                               #
-' # 1) Have apples go rotten and worth fewer points after 1/2 time    #
+' # 1) Do not paint borders if wrap is on.                            #
 ' # 2) Add a bomb that randomly appears and can kill the snake        #
 ' #    to make things challenging, bomb appears in path of snake      #
 ' # 3) As levels increase, so do obstacles and starting speed         #
 ' # 4) Add different symbols such as allow wrap, or pass through      #
 ' #    barriers, etc (temporarily)                                    #
 ' # 5) Add multi-player, where they can eat each others food, etc     #
-' # 6) Game could speec up faster the bigger the apple score          #
-' # 7) Slow snake down as health decreases?                           #
+' # 6) Game could speed up faster the bigger the apple score          #
+' # 7) Slow snake down as health decreases? May make things worse     #
 ' # 8) Animated obstacles? Enemies?                                   #
 ' # 9) Special object that appears after x number of top apples       #
 ' #    which is worth a huge number of points, but lasts a few secs   #
