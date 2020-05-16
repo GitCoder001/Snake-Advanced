@@ -25,6 +25,11 @@
 ' # 16) Persist some game settings to project strings to get saved    #
 ' #     with the rest of the program automatically when changed       #
 ' # 17) Include a high score table list/array of (high score struct)  #
+' # 18) Time mode whereby the snake's tail grows at a determined rate #
+' #     and the player has to last as long as possible without        #
+' #     losing a life.                                                #
+' #                                                                   #
+' #                                                                   #
 ' #                                                                   #
 ' #####################################################################
 
